@@ -1406,6 +1406,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "32c75d88-49be-4134-a200-3cd48a809f00",
+          "title": "连续剧",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
