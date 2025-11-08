@@ -1390,6 +1390,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1762626165133",
+      "title": "影视资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
