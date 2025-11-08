@@ -1398,7 +1398,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "ebcea6e7-1468-4891-b72c-6ac67152b9a6",
+          "title": "Se",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
