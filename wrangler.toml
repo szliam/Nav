@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23liQYqrn5REzaFSPY"
 GITHUB_OWNER = "szliam"
 GITHUB_REPO = "Nav"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav-3ss.pages.dev/api/auth/callback/github"
+NEXTAUTH_URL = "https://nav-3ss.pages.dev/api/auth"
 NEXT_PUBLIC_API_URL="https://nav-3ss.pages.dev/"
 
