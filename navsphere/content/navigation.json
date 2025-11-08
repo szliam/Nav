@@ -1414,6 +1414,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8a181dd5-79c0-4371-ae15-a6f609fc8d30",
+          "title": "电影",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
